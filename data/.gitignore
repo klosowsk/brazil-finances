@@ -3,5 +3,7 @@
 
 # Except this file
 !.gitignore
+!.gitkeep
+
 # Except folders
 !*/
